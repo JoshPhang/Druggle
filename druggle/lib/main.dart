@@ -6,6 +6,10 @@ import 'package:flutter/material.dart';
 //Launch flutter app with
 //`flutter run`
 
+//RxNav Sources
+//https://lhncbc.nlm.nih.gov/RxNav/applications/RxNavDoc.html
+//https://lhncbc.nlm.nih.gov/RxNav/APIs/index.html
+
 void main() {
   runApp(const MyApp());
 }
